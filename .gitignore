@@ -1,0 +1,15 @@
+# OS X
+.DS_Story*
+Icon?
+._*
+
+# npm
+node_modules
+package-lock.json
+*.log
+
+# Linux
+.directory
+*~
+
+
